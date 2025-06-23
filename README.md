@@ -1,4 +1,4 @@
-# clickUp-admin-rota-project
+# ClickUp-admin-rota-project
 A staff rota and task planner built using ClickUp
 # ClickUp Admin Rota & Task Tracker
 
@@ -14,7 +14,8 @@ This is a sample project showcasing how ClickUp can be used to manage weekly sta
 ## 📸 Preview
 
 > The following screenshots show the full ClickUp-based rota and task tracker (broken into 3 parts):
-> **Part 1:**
+
+**Part 1:**
 ![ClickUp Screenshot 1](ClickUp_Admin shifts and rota tracker Part 1.png)
 
 **Part 2:**
